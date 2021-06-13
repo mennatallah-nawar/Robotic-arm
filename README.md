@@ -22,7 +22,8 @@ which is not make sense unless I change the location of the thumb finger or chan
 angles of fingers ,so I change some lines in `void keyboard(unsigned char key, int x, int y)`  
 
 * Here is the final result of robotic arm 
-![image](https://github.com/mennatallah-nawar/Robotic-arm/blob/master/1.png)
+![image](https://github.com/mennatallah-nawar/Robotic-arm/blob/master/1.png) ![image](https://github.com/mennatallah-nawar/Robotic-arm/blob/master/3.png)
+
 
 
 
