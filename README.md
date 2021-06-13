@@ -16,14 +16,13 @@
 * And I face one problem with fingers motion when I run the attachment code the 
 fingers shown as below.
 
-![image](../old%20position%20(1).png)
-![image](../old%20position%20(2).png)
+![image](https://github.com/mennatallah-nawar/Robotic-arm/blob/master/old%20position%20(1).png)
 
 which is not make sense unless I change the location of the thumb finger or change 
 angles of fingers ,so I change some lines in `void keyboard(unsigned char key, int x, int y)`  
 
 * Here is the final result of robotic arm 
-![image](../1.png)
-![image](../2.png)
+![image](https://github.com/mennatallah-nawar/Robotic-arm/blob/master/1.png)
+
 
 
