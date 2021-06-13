@@ -11,7 +11,7 @@
     glutWireCube(1.0);
     glPopMatrix();
 ```
-![image](../Hand.png)
+![image](https://github.com/mennatallah-nawar/Robotic-arm/blob/master/Hand.png)
 
 * And I face one problem with fingers motion when I run the attachment code the 
 fingers shown as below.
@@ -25,8 +25,5 @@ angles of fingers ,so I change some lines in `void keyboard(unsigned char key, i
 * Here is the final result of robotic arm 
 ![image](../1.png)
 ![image](../2.png)
-![image](../3.png)
-![image](../4.png)
 
-> Done by : menna kamel nawar 
-> ID : 1170354
+
